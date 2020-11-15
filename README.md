@@ -16,3 +16,10 @@ line 20-22
 
 btw everything in this skin is just a mess.
 it was only designed for myself lol.
+
+
+oh yeah..
+
+you need to fonts.
+
+https://design.ubuntu.com/font/ and https://github.com/larsenwork/monoid
