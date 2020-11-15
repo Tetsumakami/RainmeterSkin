@@ -23,3 +23,7 @@ oh yeah..
 you need to fonts.
 
 https://design.ubuntu.com/font/ and https://github.com/larsenwork/monoid
+
+
+i forgot you need frosted glass too.
+https://forum.rainmeter.net/viewtopic.php?t=23106
